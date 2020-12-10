@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3gsxnFFslmj7F6QWSLv0nBfGjHm2N0A6qfOu9ppUI+wI+l7S6b3kWBMBy37NA+VRqtrjfPQlyJmtP8BAr5URQA==",
+  "success": true,
+  "projectFilePath": "E:\\vs_ws\\LibH\\LibH\\LibH.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Constantine\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Constantine\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

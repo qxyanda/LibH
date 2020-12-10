@@ -1,0 +1,8 @@
+E:\vs_ws\LibH\LibH\bin\Debug\netstandard2.0\LibH.deps.json
+E:\vs_ws\LibH\LibH\bin\Debug\netstandard2.0\LibH.dll
+E:\vs_ws\LibH\LibH\bin\Debug\netstandard2.0\LibH.pdb
+E:\vs_ws\LibH\LibH\obj\Debug\netstandard2.0\LibH.AssemblyInfoInputs.cache
+E:\vs_ws\LibH\LibH\obj\Debug\netstandard2.0\LibH.AssemblyInfo.cs
+E:\vs_ws\LibH\LibH\obj\Debug\netstandard2.0\LibH.csproj.CoreCompileInputs.cache
+E:\vs_ws\LibH\LibH\obj\Debug\netstandard2.0\LibH.dll
+E:\vs_ws\LibH\LibH\obj\Debug\netstandard2.0\LibH.pdb
